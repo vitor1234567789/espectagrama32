@@ -1,1 +1,1 @@
-# espectagrama32
+# ST-84-Solution
